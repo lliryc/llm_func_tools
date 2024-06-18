@@ -1,2 +1,2 @@
-# llm_func_tools
+# Adaptation SOTA LLMs for function calling
 Fine-tuning large language models for function calling support

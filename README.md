@@ -1,2 +1,8 @@
 # Adaptation SOTA LLMs for function calling
-Fine-tuning large language models for function calling support
+
+Function calling in the context of GPT (Generative Pre-trained Transformer) refers to the model's capability to interact with external functions or APIs during a conversation to retrieve, process, or generate information dynamically. When a specific task or query is beyond the model's inherent language understanding and response generation capabilities, it can call functions designed to perform specialized operations. This can include accessing real-time data, performing complex calculations, generating images, or retrieving information from external databases. Function calling enhances the model's utility by extending its functionality, allowing it to provide more accurate, relevant, and contextually appropriate responses, thereby creating a more robust and versatile AI assistant.
+
+
+The lack of function calling in open-source models limits their capabilities and flexibility. Unlike advanced models that can interact with external APIs to fetch real-time data, perform complex tasks, or integrate with other systems, open-source models are stuck with their built-in features. This means they can't handle queries that need external information or advanced processing as efficiently. As a result, users may find these models less useful and accurate for more complex or dynamic tasks, reducing their potential in creating smart and responsive AI solutions.
+
+In this repository you may find a receipt how to add function calling feature to the one of the most efficient models used on the edge devices - Phi3 Mini. Please check a Jupyter notebook in the repo to know how to make a proper modifications of a pre-trained model. 

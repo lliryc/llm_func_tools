@@ -29,7 +29,7 @@ In this repository, you will find a guide on how to add the function calling fea
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/lliryc/llm_func_tools.git
-   cd llm_func_tools.git
+   cd llm_func_tools
    ```
 2. **Run the Jupyter notebook:**
 Open the FunCall_Phi3_Unsloth_FineTuning.ipynb Jupyter notebook in the folder to begin the fine tuning or do inference based on the Phi3 Mini model.
